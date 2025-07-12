@@ -36,7 +36,7 @@ const logger = {
 const RPC_URL = 'https://rpc.zigscan.net/';
 const API_URL = 'https://testnet-api.oroswap.org/api/';
 const EXPLORER_URL = 'https://zigscan.org/tx/';
-const GAS_PRICE = GasPrice.fromString('0.002uzig'); 
+const GAS_PRICE = GasPrice.fromString('0.006uzig'); 
 
 const ORO_ZIG_CONTRACT = 'zig15jqg0hmp9n06q0as7uk3x9xkwr9k3r7yh4ww2uc0hek8zlryrgmsamk4qg';
 
